@@ -1,6 +1,6 @@
 uuid4r-candy
 =========
-Easy to use interface for syslogging both for remote and local Linux/BSD systems.
+Class/Module Candy for uuid4r gem, test and brenchmark is inline in lib/uuid4r-candy.rb
 
 Install
 =========
