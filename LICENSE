@@ -1,14 +1,3 @@
-uuid4r-candy
-=========
-Easy to use interface for syslogging both for remote and local Linux/BSD systems.
-
-Install
-=========
-*Via RubyGems.rog
-> gem install uuid4r-candy
-
-License
-=========
 Copyright (c) 2012, Digital Akasha
 All rights reserved.
 
